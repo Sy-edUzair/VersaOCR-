@@ -1,6 +1,6 @@
-# 🧠 OptiRead - Multi-Strategy Intelligent OCR Processor
+# 🧠 VersaOCR - Multi-Strategy Intelligent OCR Processor
 
-**OptiRead** is a powerful Python-based OCR tool designed to intelligently extract text from PDFs and images using multiple Tesseract configurations. It selects the best OCR result per page through scoring and confidence metrics, making it ideal for processing multilingual, scanned, or noisy documents.
+**VersaOCR** is a powerful Python-based OCR tool designed to intelligently extract text from PDFs and images using multiple Tesseract configurations. It selects the best OCR result per page through scoring and confidence metrics, making it ideal for processing multilingual, scanned, or noisy documents.
 
 ---
 
